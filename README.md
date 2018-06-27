@@ -1,2 +1,2 @@
-# Batch-Command-Scripts
+# Batch-Command-VBS-Scripts
 Windows Batch/Command Scripts
